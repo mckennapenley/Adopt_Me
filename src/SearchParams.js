@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useContext } from "react";
-import Pet from "./Pet";
 import useBreedList from "./useBreedList";
 import Results from "./Results";
 import ThemeContext from "./ThemeContext";
